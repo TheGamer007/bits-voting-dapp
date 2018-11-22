@@ -1,3 +1,7 @@
+---
+title: License
+weight: 4
+---
 MIT License
 
 Copyright (c) 2018 C. Shri Akhil

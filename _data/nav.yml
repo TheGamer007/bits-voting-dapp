@@ -1,0 +1,4 @@
+- title: "GitHub Repository"
+  url: "https://github.com/TheGamer007/bits-voting-dapp"
+  tab: true # opens this link in a new tab
+  weight: 5
