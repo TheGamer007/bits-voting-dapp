@@ -6,6 +6,8 @@ The contract supports multiple posts (i.e. designations), and multiple candidate
 
 The contract **does not** ensure that newly added candidates or posts are distinct. Therefore, this must be handled as appropriate in the frontend as of now. However, this allows for the same candidate to contest for multiple positions.
 
+**Developed By:** C. Shri Akhil [(@TheGamer007)](https://github.com/TheGamer007), Tushar Aherkar [(@tusharaherkar)](https://github.com/tusharaherkar)
+
 ### Dependencies:
 
 - [NodeJS](https://nodejs.org/en/)
